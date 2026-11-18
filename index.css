@@ -1,0 +1,22 @@
+body{
+    background-color:#ff99fa
+}
+
+h1{
+    font-family: Arial;
+}
+
+.wlc{
+    transform: rotate(-90deg);
+    position: absolute;
+    left:-16%;
+    top:30%;
+    font-size:23px;
+    color:black
+}
+
+p{
+    font-size: 39px;
+    color:#7732b4;
+    font-family: cursive;
+}
